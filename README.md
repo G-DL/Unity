@@ -1,5 +1,5 @@
 # Unity
-Test projects in Unity
+Test game in Unity
 
-This repository is dedicated to test projects in Unity.
-Citation is required, but they are otherwise free to use or edit for any purpose.
+This repository contains a test game I made in Unity, by follwing the tutorial available on https://www.youtube.com/playlist?list=PLPV2KyIb3jR5QFsefuO2RlAgWEz6EvVi6 , which I advised.
+Citation is required, you are otherwise free to use or edit it for any purpose.
